@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/tsuginodan" target="blank"><img src="https://img.shields.io/twitter/follow/tsuginodan?logo=twitter&style=for-the-badge" alt="tsuginodan" /></a> </p>
 
-- 🔭 I’m currently working on **SheetApp**
+- 🔭 I’m currently working on **TheAppWork**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Angular** (again?)
 
-- 📫 How to reach me **akaisuicchi@gmail.com**
+- 📫 How to reach me **work@dalvarez.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
