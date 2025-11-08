@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/tsuginodan" target="blank"><img src="https://img.shields.io/twitter/follow/tsuginodan?logo=twitter&style=for-the-badge" alt="tsuginodan" /></a> </p>
 
-- 🔭 I’m currently working on **TheAppWork**
+- 🔭 I’m currently working on organizations: **TheAppWork** (my playground) and **DoYouKnowThis** (the place where I review frameworks/libraries or study concepts)
 
-- 🌱 I’m currently learning **Angular** (again?)
+- 🌱 I’m currently learning: **Python**, **Angular** (again?), **Vue** (similar to Svelte)
 
 - 📫 How to reach me **work@dalvarez.dev**
 
